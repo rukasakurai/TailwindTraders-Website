@@ -104,6 +104,7 @@ class Header extends Component {
                         <Link to="/">
                             <Logo />
                         </Link>
+                        <h1>test comment to delete later</h1>
                         <nav className={this.state.isopened ? 'main-nav is-opened' : 'main-nav'}>
                             <Link className="main-nav__item" to="/list/homeappliances">
                                 {t('shared.header.homeAppliances')}
