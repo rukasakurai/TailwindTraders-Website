@@ -36,11 +36,3 @@ steps:
     azureContainerRegistry: '$(acr).azurecr.io'
     command: 'Push an image'
     imageName: '$(ImageName):$(Build.BuildId)'
-
-- task: Docker@1
-  displayName: 'Push Image'
-  inputs:
-    azureSubscriptionEndpoint: $(azureSubscription)
-    azureContainerRegistry: '$(acr).azurecr.io'
-    command: 'Push an image'
-    imageName: '$(ImageName):latest'
