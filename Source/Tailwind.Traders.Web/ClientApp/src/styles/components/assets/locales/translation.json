@@ -1,7 +1,7 @@
 {
     "en": {
       "translation": {
-        "home.hero.shiping": "Free Shipping",
+        "home.hero.shiping": "Free Shipping (en)",
         "home.hero.orders": "For $100 or more orders",
 
         "home.recommended.recommended": "Hi Eric!",
@@ -30,7 +30,7 @@
         "list.aside.close": "Close",
         "list.aside.filtersTitle": "Filters",
 
-        "shared.header.homeAppliances": "Home Appliances!",
+        "shared.header.homeAppliances": "Home Appliances",
         "shared.header.sink": "Sink",
         "shared.header.home": "Home",
         "shared.header.gardening": "Gardening",
